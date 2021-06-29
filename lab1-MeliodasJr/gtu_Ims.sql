@@ -43,7 +43,7 @@ INSERT INTO `students` (`Id`, `FirstName`, `LastName`, `PersonalNumber`, `UserId
 (1, 'jemal', 'tyabladze', 30107077990, 3094),
 (2, 'gia', 'kapanadze', 11061467421, 7233),
 (3, 'nodari', 'buadze', 33627163366, 8868),
-(4, 'eko', 'BERIDZE', 45074279792, 3232),
+(4, 'eko', 'bolqvadze', 45074279792, 3232),
 (5, 'aleqsandre', 'kiknadze', 96766035084, 9510);
 
 -- --------------------------------------------------------

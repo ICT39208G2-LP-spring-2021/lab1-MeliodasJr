@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>List of Students | Created By: Beka Narushvili</title>
+<title>List of Students | Created By: MeliodasJr</title>
 <style>
 table {border-style: outset;}
 th {border: 1px solid black;}
